@@ -2,3 +2,5 @@ repository
 - membuat file html
 - membuat file css
 - membuat file javascript
+- membuat file php
+- menambahkan file sql
